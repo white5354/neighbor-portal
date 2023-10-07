@@ -1,0 +1,12 @@
+<template>
+  <div>
+    我是banner
+  </div>
+</template>
+
+<script lang='ts' setup>
+</script>
+
+<style lang='scss' scoped>
+
+</style>

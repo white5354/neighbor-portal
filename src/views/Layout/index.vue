@@ -1,5 +1,5 @@
 <template>
-  <div class="flex flex-col " id="app1">
+  <div class="flex flex-col justify-between items-center" id="app1">
     <Header></Header>
     <router-view></router-view>
     <Footer></Footer>

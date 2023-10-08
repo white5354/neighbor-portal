@@ -2,12 +2,12 @@
   <div>
     <header class="w-[1200px] flex flex-row h-[70px] justify-center items-center ">
       <div>邻友帮帮</div>
-      <ul class="flex">
+      <ul class="flex grow">
         <li v-for="(item, index) in colums" :key="index">
           {{ item.name }}
         </li>
       </ul>
-      <div>
+      <div class="">
         登录
       </div>
     </header>

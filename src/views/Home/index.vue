@@ -1,10 +1,10 @@
 <template>
-  <div>
+  <div class="text-blue-600/100">
     我是首页
   </div>
 </template>
 
-<script lang='ts' setup>
+<script  setup>
 </script>
 
 <style lang='scss' scoped>

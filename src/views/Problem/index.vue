@@ -1,8 +1,10 @@
 <template>
-  <div></div>
+  <div>
+    常见问题
+  </div>
 </template>
 
-<script lang='ts' setup>
+<script  setup>
 </script>
 
 <style lang='scss' scoped>

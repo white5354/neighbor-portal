@@ -1,7 +1,9 @@
 <template>
   <div class="flex flex-col justify-between items-center">
     <Header></Header>
-    <router-view></router-view>
+    <div class="mt-[80px]">
+      <router-view></router-view>
+    </div>
     <Footer></Footer>
     <Copy></Copy>
   </div>

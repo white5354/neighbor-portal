@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-secondary text-secondary fixed bottom-[80px] w-full p-[80px] flex justify-around">
+  <div class="bg-secondary text-secondary w-full p-[80px] flex justify-around">
     <div class="w-[1200px] flex justify-around">
       <div class="w-[900px]">
         <ul class="flex justify-around ">

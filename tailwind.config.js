@@ -4,7 +4,7 @@ module.exports = {
   theme: {
     extend: {
       textColor: {
-        primary: '#1c3355', // 主色
+        primary: '#f3d54b', // 主色
         regular: '#9198a4', // 常规色
         secondary: '#666666', // 次要色
         disabled: '#C9CDD4', //禁用色
@@ -12,7 +12,7 @@ module.exports = {
         warn: '', //警示色
       },
       backgroundColor: {
-        primary: '#000',
+        primary: '#f3d54b',
         secondary: '#1a1a1a',
 
       }

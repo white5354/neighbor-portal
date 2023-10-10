@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-black text-sm  text-secondary flex flex-col p-[10px] w-full justify-center fixed bottom-0 items-center h-[80px]">
+  <div class="bg-black text-sm  text-secondary flex flex-col p-[10px] w-full justify-center  items-center h-[80px]">
     <div class="flex leading-8">
       <p>开发者：{{ info.company }}</p>
       <p class="ml-[70px]">版本号：{{ info.version }}</p>
